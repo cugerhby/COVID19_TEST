@@ -1,0 +1,11 @@
+com\example\COVID19\test\WebCrawlerTest.class
+com\example\COVID19\servlet\sendProvinceJson.class
+com\example\COVID19\test\jsoup.class
+com\example\COVID19\utils\MysqlUtils.class
+com\example\COVID19\data\province.class
+com\example\COVID19\HelloServlet.class
+com\example\COVID19\servlet\sendJson.class
+com\example\COVID19\servlet\updata.class
+com\example\COVID19\utils\JsonUtils.class
+com\example\COVID19\data\city.class
+com\example\COVID19\utils\sql.class
